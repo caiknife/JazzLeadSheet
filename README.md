@@ -6,9 +6,9 @@ Some Jazz Lead Sheets or other tabs transcribed with Muse Score
 echo "Hello, Jazz World!";
 ```
 
-本项目旨在收集适合爵士乐初学者适合的歌单以及Lead Sheet，避免少走弯路。
+本项目旨在收集适合爵士乐初学者适合的歌单以及Lead Sheet，避免走弯路。
 
-关于什么是Lead Sheet？
+**关于什么是Lead Sheet？**
 
 ```
 一个Lead Sheet大多只包含相当基础的信息：曲子的旋律以及和弦进行。
