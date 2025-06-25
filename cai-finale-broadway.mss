@@ -43,7 +43,7 @@
     <lyricsDashForce>1</lyricsDashForce>
     <lyricsDashFirstAndLastGapAreHalf>1</lyricsDashFirstAndLastGapAreHalf>
     <lyricsAlignVerseNumber>1</lyricsAlignVerseNumber>
-    <lyricsLineThickness>0.3</lyricsLineThickness>
+    <lyricsLineThickness>0.15</lyricsLineThickness>
     <lyricsMelismaAlign>left,baseline</lyricsMelismaAlign>
     <lyricsMelismaPad>0.1</lyricsMelismaPad>
     <lyricsDashPad>0.05</lyricsDashPad>
@@ -54,7 +54,7 @@
     <lyricsMelismaMinLength>1</lyricsMelismaMinLength>
     <lyricsDashPosAtStartOfSystem>0</lyricsDashPosAtStartOfSystem>
     <lyricsAvoidBarlines>1</lyricsAvoidBarlines>
-    <lyricsOddFontFace>MuseJazz Text</lyricsOddFontFace>
+    <lyricsOddFontFace>Finale Broadway Text</lyricsOddFontFace>
     <lyricsOddFontSize>11</lyricsOddFontSize>
     <lyricsOddLineSpacing>1</lyricsOddLineSpacing>
     <lyricsOddFontSpatiumDependent>1</lyricsOddFontSpatiumDependent>
@@ -67,7 +67,7 @@
     <lyricsOddFrameRound>0</lyricsOddFrameRound>
     <lyricsOddFrameFgColor r="0" g="0" b="0" a="255"/>
     <lyricsOddFrameBgColor r="255" g="255" b="255" a="0"/>
-    <lyricsEvenFontFace>MuseJazz Text</lyricsEvenFontFace>
+    <lyricsEvenFontFace>Finale Broadway Text</lyricsEvenFontFace>
     <lyricsEvenFontSize>11</lyricsEvenFontSize>
     <lyricsEvenLineSpacing>1</lyricsEvenLineSpacing>
     <lyricsEvenFontSpatiumDependent>1</lyricsEvenFontSpatiumDependent>
@@ -88,17 +88,17 @@
     <systemFrameDistance>7</systemFrameDistance>
     <frameSystemDistance>7</frameSystemDistance>
     <minMeasureWidth>5</minMeasureWidth>
-    <barWidth>0.3</barWidth>
-    <doubleBarWidth>0.3</doubleBarWidth>
-    <endBarWidth>0.6</endBarWidth>
-    <doubleBarDistance>0.6</doubleBarDistance>
-    <endBarDistance>0.75</endBarDistance>
-    <repeatBarlineDotSeparation>0.46</repeatBarlineDotSeparation>
+    <barWidth>0.15</barWidth>
+    <doubleBarWidth>0.15</doubleBarWidth>
+    <endBarWidth>0.5</endBarWidth>
+    <doubleBarDistance>0.5</doubleBarDistance>
+    <endBarDistance>0.5</endBarDistance>
+    <repeatBarlineDotSeparation>0.34</repeatBarlineDotSeparation>
     <repeatBarTips>0</repeatBarTips>
     <startBarlineSingle>0</startBarlineSingle>
     <startBarlineMultiple>1</startBarlineMultiple>
     <maskBarlinesForText>0</maskBarlinesForText>
-    <bracketWidth>0.45</bracketWidth>
+    <bracketWidth>0.5</bracketWidth>
     <bracketDistance>0.45</bracketDistance>
     <akkoladeWidth>1.6</akkoladeWidth>
     <akkoladeBarDistance>0.4</akkoladeBarDistance>
@@ -146,7 +146,7 @@
     <timeSigAcrossNumDist>0.1</timeSigAcrossNumDist>
     <timeSigAcrossY>0</timeSigAcrossY>
     <useStraightNoteFlags>0</useStraightNoteFlags>
-    <stemWidth>0.2</stemWidth>
+    <stemWidth>0.15</stemWidth>
     <shortenStem>1</shortenStem>
     <stemLength>3.5</stemLength>
     <stemLengthSmall>2.25</stemLengthSmall>
@@ -165,9 +165,9 @@
     <mrNumberSeriesWithParentheses>1</mrNumberSeriesWithParentheses>
     <oneMeasureRepeatShow1>0</oneMeasureRepeatShow1>
     <fourMeasureRepeatShowExtenders>0</fourMeasureRepeatShowExtenders>
-    <staffLineWidth>0.1</staffLineWidth>
-    <ledgerLineWidth>0.2</ledgerLineWidth>
-    <ledgerLineLength>0.2</ledgerLineLength>
+    <staffLineWidth>0.15</staffLineWidth>
+    <ledgerLineWidth>0.19</ledgerLineWidth>
+    <ledgerLineLength>0.25</ledgerLineLength>
     <stemSlashPosition>2</stemSlashPosition>
     <stemSlashAngle>40</stemSlashAngle>
     <stemSlashThickness>0.125</stemSlashThickness>
@@ -210,8 +210,8 @@
     <hairpinLinePosBelow x="0" y="4"/>
     <hairpinHeight>1.2</hairpinHeight>
     <hairpinContHeight>0.5</hairpinContHeight>
-    <hairpinLineWidth>0.2</hairpinLineWidth>
-    <hairpinFontFace>MuseJazz Text</hairpinFontFace>
+    <hairpinLineWidth>0.15</hairpinLineWidth>
+    <hairpinFontFace>Finale Broadway Text</hairpinFontFace>
     <hairpinFontSize>12</hairpinFontSize>
     <hairpinLineSpacing>1</hairpinLineSpacing>
     <hairpinFontSpatiumDependent>1</hairpinFontSpatiumDependent>
@@ -238,12 +238,12 @@
     <pedalPlacement>1</pedalPlacement>
     <pedalPosAbove x="0" y="-4"/>
     <pedalPosBelow x="0" y="4"/>
-    <pedalLineWidth>0.2</pedalLineWidth>
+    <pedalLineWidth>0.15</pedalLineWidth>
     <pedalLineStyle>solid</pedalLineStyle>
     <pedalDashLineLen>4</pedalDashLineLen>
     <pedalDashGapLen>4</pedalDashGapLen>
     <pedalHookHeight>-1.2</pedalHookHeight>
-    <pedalFontFace>MuseJazz Text</pedalFontFace>
+    <pedalFontFace>Finale Broadway Text</pedalFontFace>
     <pedalFontSize>12</pedalFontSize>
     <pedalLineSpacing>1</pedalLineSpacing>
     <pedalFontSpatiumDependent>1</pedalFontSpatiumDependent>
@@ -288,7 +288,7 @@
     <romanNumeralPosBelow x="0" y="3.5"/>
     <nashvilleNumberPosAbove x="0" y="-2.5"/>
     <nashvilleNumberPosBelow x="0" y="3.5"/>
-    <chordSymbolAFontFace>MuseJazz Text</chordSymbolAFontFace>
+    <chordSymbolAFontFace>Finale Broadway Text</chordSymbolAFontFace>
     <chordSymbolAFontSize>12</chordSymbolAFontSize>
     <chordSymbolALineSpacing>1</chordSymbolALineSpacing>
     <chordSymbolAFontSpatiumDependent>1</chordSymbolAFontSpatiumDependent>
@@ -301,7 +301,7 @@
     <chordSymbolAFrameRound>0</chordSymbolAFrameRound>
     <chordSymbolAFrameFgColor r="0" g="0" b="0" a="255"/>
     <chordSymbolAFrameBgColor r="255" g="255" b="255" a="0"/>
-    <chordSymbolBFontFace>MuseJazz Text</chordSymbolBFontFace>
+    <chordSymbolBFontFace>Finale Broadway Text</chordSymbolBFontFace>
     <chordSymbolBFontSize>12</chordSymbolBFontSize>
     <chordSymbolBLineSpacing>1</chordSymbolBLineSpacing>
     <chordSymbolBFontSpatiumDependent>1</chordSymbolBFontSpatiumDependent>
@@ -314,7 +314,7 @@
     <chordSymbolBFrameRound>0</chordSymbolBFrameRound>
     <chordSymbolBFrameFgColor r="0" g="0" b="0" a="255"/>
     <chordSymbolBFrameBgColor r="255" g="255" b="255" a="0"/>
-    <romanNumeralFontFace>MuseJazz Text</romanNumeralFontFace>
+    <romanNumeralFontFace>Finale Broadway Text</romanNumeralFontFace>
     <romanNumeralFontSize>12</romanNumeralFontSize>
     <romanNumeralLineSpacing>1</romanNumeralLineSpacing>
     <romanNumeralFontSpatiumDependent>1</romanNumeralFontSpatiumDependent>
@@ -327,7 +327,7 @@
     <romanNumeralFrameRound>0</romanNumeralFrameRound>
     <romanNumeralFrameFgColor r="0" g="0" b="0" a="255"/>
     <romanNumeralFrameBgColor r="255" g="255" b="255" a="0"/>
-    <nashvilleNumberFontFace>MuseJazz Text</nashvilleNumberFontFace>
+    <nashvilleNumberFontFace>Finale Broadway Text</nashvilleNumberFontFace>
     <nashvilleNumberFontSize>12</nashvilleNumberFontSize>
     <nashvilleNumberLineSpacing>1</nashvilleNumberLineSpacing>
     <nashvilleNumberFontSpatiumDependent>1</nashvilleNumberFontSpatiumDependent>
@@ -445,11 +445,11 @@
     <arpeggioLineWidth>0.18</arpeggioLineWidth>
     <arpeggioHookLen>0.8</arpeggioHookLen>
     <arpeggioHiddenInStdIfTab>0</arpeggioHiddenInStdIfTab>
-    <slurEndWidth>0.12</slurEndWidth>
-    <slurMidWidth>0.25</slurMidWidth>
+    <slurEndWidth>0.07</slurEndWidth>
+    <slurMidWidth>0.33</slurMidWidth>
     <slurDottedWidth>0.1</slurDottedWidth>
-    <tieEndWidth>0.12</tieEndWidth>
-    <tieMidWidth>0.25</tieMidWidth>
+    <tieEndWidth>0.07</tieEndWidth>
+    <tieMidWidth>0.33</tieMidWidth>
     <tieDottedWidth>0.1</tieDottedWidth>
     <minTieLength>1</minTieLength>
     <minHangingTieLength>1.5</minHangingTieLength>
@@ -468,8 +468,8 @@
     <minLaissezVibLength>2</minLaissezVibLength>
     <laissezVibUseSmuflSym>0</laissezVibUseSmuflSym>
     <sectionPause>3</sectionPause>
-    <musicalSymbolFont>MuseJazz</musicalSymbolFont>
-    <musicalTextFont>MuseJazz Text</musicalTextFont>
+    <musicalSymbolFont>Finale Broadway</musicalSymbolFont>
+    <musicalTextFont>Finale Broadway Text</musicalTextFont>
     <showHeader>0</showHeader>
     <headerFirstPage>0</headerFirstPage>
     <headerOddEven>1</headerOddEven>
@@ -490,11 +490,11 @@
     <oddFooterR>$p</oddFooterR>
     <voltaPosAbove x="0" y="-3"/>
     <voltaHook>1.9</voltaHook>
-    <voltaLineWidth>0.2</voltaLineWidth>
+    <voltaLineWidth>0.15</voltaLineWidth>
     <voltaLineStyle>solid</voltaLineStyle>
     <voltaDashLineLen>5</voltaDashLineLen>
     <voltaDashGapLen>5</voltaDashGapLen>
-    <voltaFontFace>MuseJazz Text</voltaFontFace>
+    <voltaFontFace>Finale Broadway Text</voltaFontFace>
     <voltaFontSize>11</voltaFontSize>
     <voltaLineSpacing>1</voltaLineSpacing>
     <voltaFontSpatiumDependent>1</voltaFontSpatiumDependent>
@@ -542,12 +542,12 @@
     <ottavaPosBelow x="0" y="3"/>
     <ottavaHookAbove>1.9</ottavaHookAbove>
     <ottavaHookBelow>-1.9</ottavaHookBelow>
-    <ottavaLineWidth>0.2</ottavaLineWidth>
+    <ottavaLineWidth>0.15</ottavaLineWidth>
     <ottavaLineStyle>dashed</ottavaLineStyle>
     <ottavaDashLineLen>6</ottavaDashLineLen>
     <ottavaDashGapLen>6</ottavaDashGapLen>
     <ottavaNumbersOnly>1</ottavaNumbersOnly>
-    <ottavaFontFace>MuseJazz Text</ottavaFontFace>
+    <ottavaFontFace>Finale Broadway Text</ottavaFontFace>
     <ottavaFontSize>10</ottavaFontSize>
     <ottavaLineSpacing>1</ottavaLineSpacing>
     <ottavaFontSpatiumDependent>1</ottavaFontSpatiumDependent>
@@ -582,11 +582,11 @@
     <tupletStemRightDistance>0.5</tupletStemRightDistance>
     <tupletNoteLeftDistance>0</tupletNoteLeftDistance>
     <tupletNoteRightDistance>0</tupletNoteRightDistance>
-    <tupletBracketWidth>0.2</tupletBracketWidth>
+    <tupletBracketWidth>0.15</tupletBracketWidth>
     <tupletDirection>0</tupletDirection>
     <tupletNumberType>0</tupletNumberType>
     <tupletBracketType>0</tupletBracketType>
-    <tupletFontFace>MuseJazz Text</tupletFontFace>
+    <tupletFontFace>Finale Broadway Text</tupletFontFace>
     <tupletFontSize>10</tupletFontSize>
     <tupletLineSpacing>1</tupletLineSpacing>
     <tupletFontSpatiumDependent>1</tupletFontSpatiumDependent>
@@ -613,7 +613,7 @@
     <dynamicsHairpinsAutoCenterOnGrandStaff>1</dynamicsHairpinsAutoCenterOnGrandStaff>
     <dynamicsHairpinsAboveForVocalStaves>1</dynamicsHairpinsAboveForVocalStaves>
     <dynamicsOverrideFont>0</dynamicsOverrideFont>
-    <dynamicsFont>Leland</dynamicsFont>
+    <dynamicsFont>Finale Broadway</dynamicsFont>
     <dynamicsSize>1</dynamicsSize>
     <dynamicsPlacement>1</dynamicsPlacement>
     <dynamicsPosAbove x="0" y="-3"/>
@@ -661,7 +661,7 @@
     <defaultOffsetType>1</defaultOffsetType>
     <defaultSystemFlag>0</defaultSystemFlag>
     <defaultText></defaultText>
-    <titleFontFace>MuseJazz Text</titleFontFace>
+    <titleFontFace>Finale Broadway Text</titleFontFace>
     <titleFontSize>24</titleFontSize>
     <titleLineSpacing>1</titleLineSpacing>
     <titleFontSpatiumDependent>0</titleFontSpatiumDependent>
@@ -676,7 +676,7 @@
     <titleFrameRound>0</titleFrameRound>
     <titleFrameFgColor r="0" g="0" b="0" a="255"/>
     <titleFrameBgColor r="255" g="255" b="255" a="0"/>
-    <subTitleFontFace>MuseJazz Text</subTitleFontFace>
+    <subTitleFontFace>Finale Broadway Text</subTitleFontFace>
     <subTitleFontSize>14</subTitleFontSize>
     <subTitleLineSpacing>1</subTitleLineSpacing>
     <subTitleFontSpatiumDependent>0</subTitleFontSpatiumDependent>
@@ -691,7 +691,7 @@
     <subTitleFrameRound>0</subTitleFrameRound>
     <subTitleFrameFgColor r="0" g="0" b="0" a="255"/>
     <subTitleFrameBgColor r="255" g="255" b="255" a="0"/>
-    <composerFontFace>MuseJazz Text</composerFontFace>
+    <composerFontFace>Finale Broadway Text</composerFontFace>
     <composerFontSize>12</composerFontSize>
     <composerLineSpacing>1</composerLineSpacing>
     <composerFontSpatiumDependent>0</composerFontSpatiumDependent>
@@ -706,7 +706,7 @@
     <composerFrameRound>0</composerFrameRound>
     <composerFrameFgColor r="0" g="0" b="0" a="255"/>
     <composerFrameBgColor r="255" g="255" b="255" a="0"/>
-    <lyricistFontFace>MuseJazz Text</lyricistFontFace>
+    <lyricistFontFace>Finale Broadway Text</lyricistFontFace>
     <lyricistFontSize>12</lyricistFontSize>
     <lyricistLineSpacing>1</lyricistLineSpacing>
     <lyricistFontSpatiumDependent>0</lyricistFontSpatiumDependent>
@@ -721,7 +721,7 @@
     <lyricistFrameRound>0</lyricistFrameRound>
     <lyricistFrameFgColor r="0" g="0" b="0" a="255"/>
     <lyricistFrameBgColor r="255" g="255" b="255" a="0"/>
-    <fingeringFontFace>MuseJazz Text</fingeringFontFace>
+    <fingeringFontFace>Finale Broadway Text</fingeringFontFace>
     <fingeringFontSize>8</fingeringFontSize>
     <fingeringLineSpacing>1</fingeringLineSpacing>
     <fingeringFontSpatiumDependent>1</fingeringFontSpatiumDependent>
@@ -735,7 +735,7 @@
     <fingeringFrameFgColor r="0" g="0" b="0" a="255"/>
     <fingeringFrameBgColor r="255" g="255" b="255" a="0"/>
     <fingeringOffset x="0" y="0"/>
-    <lhGuitarFingeringFontFace>MuseJazz Text</lhGuitarFingeringFontFace>
+    <lhGuitarFingeringFontFace>Finale Broadway Text</lhGuitarFingeringFontFace>
     <lhGuitarFingeringFontSize>8</lhGuitarFingeringFontSize>
     <lhGuitarFingeringLineSpacing>1</lhGuitarFingeringLineSpacing>
     <lhGuitarFingeringFontSpatiumDependent>1</lhGuitarFingeringFontSpatiumDependent>
@@ -749,7 +749,7 @@
     <lhGuitarFingeringFrameFgColor r="0" g="0" b="0" a="255"/>
     <lhGuitarFingeringFrameBgColor r="255" g="255" b="255" a="0"/>
     <lhGuitarFingeringOffset x="-0.5" y="0"/>
-    <rhGuitarFingeringFontFace>MuseJazz Text</rhGuitarFingeringFontFace>
+    <rhGuitarFingeringFontFace>Finale Broadway Text</rhGuitarFingeringFontFace>
     <rhGuitarFingeringFontSize>8</rhGuitarFingeringFontSize>
     <rhGuitarFingeringLineSpacing>1</rhGuitarFingeringLineSpacing>
     <rhGuitarFingeringFontSpatiumDependent>1</rhGuitarFingeringFontSpatiumDependent>
@@ -763,7 +763,7 @@
     <rhGuitarFingeringFrameFgColor r="0" g="0" b="0" a="255"/>
     <rhGuitarFingeringFrameBgColor r="255" g="255" b="255" a="0"/>
     <rhGuitarFingeringOffset x="0" y="0"/>
-    <stringNumberFontFace>MuseJazz Text</stringNumberFontFace>
+    <stringNumberFontFace>Finale Broadway Text</stringNumberFontFace>
     <stringNumberFontSize>8</stringNumberFontSize>
     <stringNumberLineSpacing>1</stringNumberLineSpacing>
     <stringNumberFontSpatiumDependent>1</stringNumberFontSpatiumDependent>
@@ -779,7 +779,7 @@
     <stringNumberOffset x="0" y="0"/>
     <preferSameStringForTranspose>0</preferSameStringForTranspose>
     <stringTuningsFontSize>9</stringTuningsFontSize>
-    <harpPedalDiagramFontFace>MuseJazz Text</harpPedalDiagramFontFace>
+    <harpPedalDiagramFontFace>Finale Broadway Text</harpPedalDiagramFontFace>
     <harpPedalDiagramFontSize>10</harpPedalDiagramFontSize>
     <harpPedalDiagramLineSpacing>1</harpPedalDiagramLineSpacing>
     <harpPedalDiagramFontSpatiumDependent>1</harpPedalDiagramFontSpatiumDependent>
@@ -798,7 +798,7 @@
     <harpPedalDiagramPosAbove x="0" y="-1"/>
     <harpPedalDiagramPosBelow x="0" y="2.5"/>
     <harpPedalDiagramMinDistance>0.5</harpPedalDiagramMinDistance>
-    <harpPedalTextDiagramFontFace>MuseJazz Text</harpPedalTextDiagramFontFace>
+    <harpPedalTextDiagramFontFace>Finale Broadway Text</harpPedalTextDiagramFontFace>
     <harpPedalTextDiagramFontSize>8</harpPedalTextDiagramFontSize>
     <harpPedalTextDiagramLineSpacing>1</harpPedalTextDiagramLineSpacing>
     <harpPedalTextDiagramFontSpatiumDependent>1</harpPedalTextDiagramFontSpatiumDependent>
@@ -816,7 +816,7 @@
     <harpPedalTextDiagramPosAbove x="0" y="-1.5"/>
     <harpPedalTextDiagramPosBelow x="0" y="2.5"/>
     <harpPedalTextDiagramMinDistance>0.5</harpPedalTextDiagramMinDistance>
-    <longInstrumentFontFace>MuseJazz Text</longInstrumentFontFace>
+    <longInstrumentFontFace>Finale Broadway Text</longInstrumentFontFace>
     <longInstrumentFontSize>12</longInstrumentFontSize>
     <longInstrumentLineSpacing>1</longInstrumentLineSpacing>
     <longInstrumentFontSpatiumDependent>1</longInstrumentFontSpatiumDependent>
@@ -830,7 +830,7 @@
     <longInstrumentFrameRound>0</longInstrumentFrameRound>
     <longInstrumentFrameFgColor r="0" g="0" b="0" a="255"/>
     <longInstrumentFrameBgColor r="255" g="255" b="255" a="0"/>
-    <shortInstrumentFontFace>MuseJazz Text</shortInstrumentFontFace>
+    <shortInstrumentFontFace>Finale Broadway Text</shortInstrumentFontFace>
     <shortInstrumentFontSize>12</shortInstrumentFontSize>
     <shortInstrumentLineSpacing>1</shortInstrumentLineSpacing>
     <shortInstrumentFontSpatiumDependent>1</shortInstrumentFontSpatiumDependent>
@@ -844,7 +844,7 @@
     <shortInstrumentFrameRound>0</shortInstrumentFrameRound>
     <shortInstrumentFrameFgColor r="0" g="0" b="0" a="255"/>
     <shortInstrumentFrameBgColor r="255" g="255" b="255" a="0"/>
-    <partInstrumentFontFace>MuseJazz Text</partInstrumentFontFace>
+    <partInstrumentFontFace>Finale Broadway Text</partInstrumentFontFace>
     <partInstrumentFontSize>18</partInstrumentFontSize>
     <partInstrumentLineSpacing>1</partInstrumentLineSpacing>
     <partInstrumentFontSpatiumDependent>0</partInstrumentFontSpatiumDependent>
@@ -858,7 +858,7 @@
     <partInstrumentFrameRound>0</partInstrumentFrameRound>
     <partInstrumentFrameFgColor r="0" g="0" b="0" a="255"/>
     <partInstrumentFrameBgColor r="255" g="255" b="255" a="0"/>
-    <dynamicsFontFace>MuseJazz Text</dynamicsFontFace>
+    <dynamicsFontFace>Finale Broadway Text</dynamicsFontFace>
     <dynamicsFontSize>12</dynamicsFontSize>
     <dynamicsLineSpacing>1</dynamicsLineSpacing>
     <dynamicsFontSpatiumDependent>1</dynamicsFontSpatiumDependent>
@@ -871,7 +871,7 @@
     <dynamicsFrameRound>0</dynamicsFrameRound>
     <dynamicsFrameFgColor r="0" g="0" b="0" a="255"/>
     <dynamicsFrameBgColor r="255" g="255" b="255" a="0"/>
-    <expressionFontFace>MuseJazz Text</expressionFontFace>
+    <expressionFontFace>Finale Broadway Text</expressionFontFace>
     <expressionFontSize>11</expressionFontSize>
     <expressionLineSpacing>1</expressionLineSpacing>
     <expressionFontSpatiumDependent>1</expressionFontSpatiumDependent>
@@ -889,7 +889,7 @@
     <expressionFrameFgColor r="0" g="0" b="0" a="255"/>
     <expressionFrameBgColor r="255" g="255" b="255" a="0"/>
     <expressionMinDistance>0.5</expressionMinDistance>
-    <tempoFontFace>MuseJazz Text</tempoFontFace>
+    <tempoFontFace>Finale Broadway Text</tempoFontFace>
     <tempoFontSize>12</tempoFontSize>
     <tempoLineSpacing>1</tempoLineSpacing>
     <tempoFontSpatiumDependent>1</tempoFontSpatiumDependent>
@@ -907,7 +907,7 @@
     <tempoFrameRound>0</tempoFrameRound>
     <tempoFrameFgColor r="0" g="0" b="0" a="255"/>
     <tempoFrameBgColor r="255" g="255" b="255" a="0"/>
-    <tempoChangeFontFace>MuseJazz Text</tempoChangeFontFace>
+    <tempoChangeFontFace>Finale Broadway Text</tempoChangeFontFace>
     <tempoChangeFontSize>12</tempoChangeFontSize>
     <tempoChangeLineSpacing>1</tempoChangeLineSpacing>
     <tempoChangeFontSpatiumDependent>1</tempoChangeFontSpatiumDependent>
@@ -929,7 +929,7 @@
     <tempoChangeLineStyle>dashed</tempoChangeLineStyle>
     <tempoChangeDashLineLen>6</tempoChangeDashLineLen>
     <tempoChangeDashGapLen>9</tempoChangeDashGapLen>
-    <metronomeFontFace>MuseJazz Text</metronomeFontFace>
+    <metronomeFontFace>Finale Broadway Text</metronomeFontFace>
     <metronomeFontSize>12</metronomeFontSize>
     <metronomeLineSpacing>1</metronomeLineSpacing>
     <metronomeFontSpatiumDependent>0</metronomeFontSpatiumDependent>
@@ -944,7 +944,7 @@
     <metronomeFrameRound>0</metronomeFrameRound>
     <metronomeFrameFgColor r="0" g="0" b="0" a="255"/>
     <metronomeFrameBgColor r="255" g="255" b="255" a="0"/>
-    <measureNumberFontFace>MuseJazz Text</measureNumberFontFace>
+    <measureNumberFontFace>Finale Broadway Text</measureNumberFontFace>
     <measureNumberFontSize>8</measureNumberFontSize>
     <measureNumberLineSpacing>1</measureNumberLineSpacing>
     <measureNumberFontSpatiumDependent>1</measureNumberFontSpatiumDependent>
@@ -965,7 +965,7 @@
     <measureNumberFrameBgColor r="255" g="255" b="255" a="0"/>
     <mmRestShowMeasureNumberRange>0</mmRestShowMeasureNumberRange>
     <mmRestRangeBracketType>0</mmRestRangeBracketType>
-    <mmRestRangeFontFace>MuseJazz Text</mmRestRangeFontFace>
+    <mmRestRangeFontFace>Finale Broadway Text</mmRestRangeFontFace>
     <mmRestRangeFontSize>8</mmRestRangeFontSize>
     <mmRestRangeFontSpatiumDependent>0</mmRestRangeFontSpatiumDependent>
     <mmRestRangeFontStyle>2</mmRestRangeFontStyle>
@@ -983,7 +983,7 @@
     <mmRestRangeFrameFgColor r="0" g="0" b="0" a="255"/>
     <mmRestRangeFrameBgColor r="255" g="255" b="255" a="0"/>
     <mmRestRangeMinDistance>0.5</mmRestRangeMinDistance>
-    <translatorFontFace>MuseJazz Text</translatorFontFace>
+    <translatorFontFace>Finale Broadway Text</translatorFontFace>
     <translatorFontSize>11</translatorFontSize>
     <translatorLineSpacing>1</translatorLineSpacing>
     <translatorFontSpatiumDependent>0</translatorFontSpatiumDependent>
@@ -997,7 +997,7 @@
     <translatorFrameRound>0</translatorFrameRound>
     <translatorFrameFgColor r="0" g="0" b="0" a="255"/>
     <translatorFrameBgColor r="255" g="255" b="255" a="0"/>
-    <systemTextFontFace>MuseJazz Text</systemTextFontFace>
+    <systemTextFontFace>Finale Broadway Text</systemTextFontFace>
     <systemTextFontSize>10</systemTextFontSize>
     <systemTextLineSpacing>1</systemTextLineSpacing>
     <systemTextFontSpatiumDependent>1</systemTextFontSpatiumDependent>
@@ -1015,7 +1015,7 @@
     <systemTextFrameRound>0</systemTextFrameRound>
     <systemTextFrameFgColor r="0" g="0" b="0" a="255"/>
     <systemTextFrameBgColor r="255" g="255" b="255" a="0"/>
-    <staffTextFontFace>MuseJazz Text</staffTextFontFace>
+    <staffTextFontFace>Finale Broadway Text</staffTextFontFace>
     <staffTextFontSize>10</staffTextFontSize>
     <staffTextLineSpacing>1</staffTextLineSpacing>
     <staffTextFontSpatiumDependent>1</staffTextFontSpatiumDependent>
@@ -1033,7 +1033,7 @@
     <staffTextFrameRound>0</staffTextFrameRound>
     <staffTextFrameFgColor r="0" g="0" b="0" a="255"/>
     <staffTextFrameBgColor r="255" g="255" b="255" a="0"/>
-    <fretDiagramFingeringFontFace>MuseJazz Text</fretDiagramFingeringFontFace>
+    <fretDiagramFingeringFontFace>Finale Broadway Text</fretDiagramFingeringFontFace>
     <fretDiagramFingeringFontSize>6</fretDiagramFingeringFontSize>
     <fretDiagramFingeringLineSpacing>1</fretDiagramFingeringLineSpacing>
     <fretDiagramFingeringFontSpatiumDependent>1</fretDiagramFingeringFontSpatiumDependent>
@@ -1047,7 +1047,7 @@
     <fretDiagramFingeringFrameRound>0</fretDiagramFingeringFrameRound>
     <fretDiagramFingeringFrameFgColor r="0" g="0" b="0" a="255"/>
     <fretDiagramFingeringFrameBgColor r="255" g="255" b="255" a="0"/>
-    <fretDiagramFretNumberFontFace>MuseJazz Text</fretDiagramFretNumberFontFace>
+    <fretDiagramFretNumberFontFace>Finale Broadway Text</fretDiagramFretNumberFontFace>
     <fretDiagramFretNumberFontSize>6</fretDiagramFretNumberFontSize>
     <fretDiagramFretNumberLineSpacing>1</fretDiagramFretNumberLineSpacing>
     <fretDiagramFretNumberFontSpatiumDependent>1</fretDiagramFretNumberFontSpatiumDependent>
@@ -1061,7 +1061,7 @@
     <fretDiagramFretNumberFrameRound>0</fretDiagramFretNumberFrameRound>
     <fretDiagramFretNumberFrameFgColor r="0" g="0" b="0" a="255"/>
     <fretDiagramFretNumberFrameBgColor r="255" g="255" b="255" a="0"/>
-    <rehearsalMarkFontFace>MuseJazz Text</rehearsalMarkFontFace>
+    <rehearsalMarkFontFace>Finale Broadway Text</rehearsalMarkFontFace>
     <rehearsalMarkFontSize>14</rehearsalMarkFontSize>
     <rehearsalMarkLineSpacing>1</rehearsalMarkLineSpacing>
     <rehearsalMarkFontSpatiumDependent>1</rehearsalMarkFontSpatiumDependent>
@@ -1078,7 +1078,7 @@
     <rehearsalMarkPosAbove x="0" y="-3"/>
     <rehearsalMarkPosBelow x="0" y="4"/>
     <rehearsalMarkMinDistance>0.5</rehearsalMarkMinDistance>
-    <repeatLeftFontFace>MuseJazz Text</repeatLeftFontFace>
+    <repeatLeftFontFace>Finale Broadway Text</repeatLeftFontFace>
     <repeatLeftFontSize>20</repeatLeftFontSize>
     <repeatLeftLineSpacing>1</repeatLeftLineSpacing>
     <repeatLeftFontSpatiumDependent>1</repeatLeftFontSpatiumDependent>
@@ -1092,7 +1092,7 @@
     <repeatLeftFrameRound>0</repeatLeftFrameRound>
     <repeatLeftFrameFgColor r="0" g="0" b="0" a="255"/>
     <repeatLeftFrameBgColor r="255" g="255" b="255" a="0"/>
-    <repeatRightFontFace>MuseJazz Text</repeatRightFontFace>
+    <repeatRightFontFace>Finale Broadway Text</repeatRightFontFace>
     <repeatRightFontSize>12</repeatRightFontSize>
     <repeatRightLineSpacing>1</repeatRightLineSpacing>
     <repeatRightFontSpatiumDependent>0</repeatRightFontSpatiumDependent>
@@ -1106,7 +1106,7 @@
     <repeatRightFrameRound>0</repeatRightFrameRound>
     <repeatRightFrameFgColor r="0" g="0" b="0" a="255"/>
     <repeatRightFrameBgColor r="255" g="255" b="255" a="0"/>
-    <frameFontFace>MuseJazz Text</frameFontFace>
+    <frameFontFace>Finale Broadway Text</frameFontFace>
     <frameFontSize>12</frameFontSize>
     <frameLineSpacing>1</frameLineSpacing>
     <frameFontSpatiumDependent>0</frameFontSpatiumDependent>
@@ -1120,7 +1120,7 @@
     <frameFrameRound>0</frameFrameRound>
     <frameFrameFgColor r="0" g="0" b="0" a="255"/>
     <frameFrameBgColor r="255" g="255" b="255" a="0"/>
-    <textLineFontFace>MuseJazz Text</textLineFontFace>
+    <textLineFontFace>Finale Broadway Text</textLineFontFace>
     <textLineFontSize>12</textLineFontSize>
     <textLineLineSpacing>1</textLineLineSpacing>
     <textLineFontSpatiumDependent>1</textLineFontSpatiumDependent>
@@ -1136,7 +1136,7 @@
     <systemTextLineTextAlign>left,center</systemTextLineTextAlign>
     <systemTextLineSystemFlag>1</systemTextLineSystemFlag>
     <noteLinePlacement>0</noteLinePlacement>
-    <noteLineFontFace>MuseJazz Text</noteLineFontFace>
+    <noteLineFontFace>Finale Broadway Text</noteLineFontFace>
     <noteLineFontSize>10</noteLineFontSize>
     <noteLineLineSpacing>1</noteLineLineSpacing>
     <noteLineFontSpatiumDependent>1</noteLineFontSpatiumDependent>
@@ -1154,7 +1154,7 @@
     <noteLineStyle>solid</noteLineStyle>
     <noteLineDashLineLen>5</noteLineDashLineLen>
     <noteLineDashGapLen>5</noteLineDashGapLen>
-    <glissandoFontFace>MuseJazz Text</glissandoFontFace>
+    <glissandoFontFace>Finale Broadway Text</glissandoFontFace>
     <glissandoFontSize>8</glissandoFontSize>
     <glissandoLineSpacing>1</glissandoLineSpacing>
     <glissandoFontSpatiumDependent>1</glissandoFontSpatiumDependent>
@@ -1177,7 +1177,7 @@
     <glissandoDashLineLen>5</glissandoDashLineLen>
     <glissandoDashGapLen>5</glissandoDashGapLen>
     <glissandoShowText>1</glissandoShowText>
-    <bendFontFace>MuseJazz Text</bendFontFace>
+    <bendFontFace>Finale Broadway Text</bendFontFace>
     <bendFontSize>8</bendFontSize>
     <bendLineSpacing>1</bendLineSpacing>
     <bendFontSpatiumDependent>1</bendFontSpatiumDependent>
@@ -1201,7 +1201,7 @@
     <guitarBendArrowWidth>1</guitarBendArrowWidth>
     <guitarBendArrowHeight>1</guitarBendArrowHeight>
     <useCueSizeFretForGraceBends>0</useCueSizeFretForGraceBends>
-    <headerFontFace>MuseJazz Text</headerFontFace>
+    <headerFontFace>Finale Broadway Text</headerFontFace>
     <headerFontSize>8</headerFontSize>
     <headerLineSpacing>1</headerLineSpacing>
     <headerFontSpatiumDependent>0</headerFontSpatiumDependent>
@@ -1215,7 +1215,7 @@
     <headerFrameRound>0</headerFrameRound>
     <headerFrameFgColor r="0" g="0" b="0" a="255"/>
     <headerFrameBgColor r="255" g="255" b="255" a="0"/>
-    <footerFontFace>MuseJazz Text</footerFontFace>
+    <footerFontFace>Finale Broadway Text</footerFontFace>
     <footerFontSize>8</footerFontSize>
     <footerLineSpacing>1</footerLineSpacing>
     <footerFontSpatiumDependent>0</footerFontSpatiumDependent>
@@ -1229,7 +1229,7 @@
     <footerFrameRound>0</footerFrameRound>
     <footerFrameFgColor r="0" g="0" b="0" a="255"/>
     <footerFrameBgColor r="255" g="255" b="255" a="0"/>
-    <copyrightFontFace>MuseJazz Text</copyrightFontFace>
+    <copyrightFontFace>Finale Broadway Text</copyrightFontFace>
     <copyrightFontSize>9</copyrightFontSize>
     <copyrightLineSpacing>1</copyrightLineSpacing>
     <copyrightFontSpatiumDependent>0</copyrightFontSpatiumDependent>
@@ -1243,7 +1243,7 @@
     <copyrightFrameRound>0</copyrightFrameRound>
     <copyrightFrameFgColor r="0" g="0" b="0" a="255"/>
     <copyrightFrameBgColor r="255" g="255" b="255" a="0"/>
-    <pageNumberFontFace>MuseJazz Text</pageNumberFontFace>
+    <pageNumberFontFace>Finale Broadway Text</pageNumberFontFace>
     <pageNumberFontSize>11</pageNumberFontSize>
     <pageNumberLineSpacing>1</pageNumberLineSpacing>
     <pageNumberFontSpatiumDependent>0</pageNumberFontSpatiumDependent>
@@ -1257,7 +1257,7 @@
     <pageNumberFrameRound>0</pageNumberFrameRound>
     <pageNumberFrameFgColor r="0" g="0" b="0" a="255"/>
     <pageNumberFrameBgColor r="255" g="255" b="255" a="0"/>
-    <instrumentChangeFontFace>MuseJazz Text</instrumentChangeFontFace>
+    <instrumentChangeFontFace>Finale Broadway Text</instrumentChangeFontFace>
     <instrumentChangeFontSize>12</instrumentChangeFontSize>
     <instrumentChangeLineSpacing>1</instrumentChangeLineSpacing>
     <instrumentChangeFontSpatiumDependent>1</instrumentChangeFontSpatiumDependent>
@@ -1275,7 +1275,7 @@
     <instrumentChangeFrameRound>0</instrumentChangeFrameRound>
     <instrumentChangeFrameFgColor r="0" g="0" b="0" a="255"/>
     <instrumentChangeFrameBgColor r="255" g="255" b="255" a="0"/>
-    <stickingFontFace>MuseJazz Text</stickingFontFace>
+    <stickingFontFace>Finale Broadway Text</stickingFontFace>
     <stickingFontSize>12</stickingFontSize>
     <stickingLineSpacing>1</stickingLineSpacing>
     <stickingFontSpatiumDependent>1</stickingFontSpatiumDependent>
@@ -1491,7 +1491,7 @@
     <user12FrameRound>0</user12FrameRound>
     <user12FrameFgColor r="0" g="0" b="0" a="255"/>
     <user12FrameBgColor r="255" g="255" b="255" a="0"/>
-    <letRingFontFace>MuseJazz Text</letRingFontFace>
+    <letRingFontFace>Finale Broadway Text</letRingFontFace>
     <letRingFontSize>10</letRingFontSize>
     <letRingLineSpacing>1</letRingLineSpacing>
     <letRingFontSpatiumDependent>1</letRingFontSpatiumDependent>
@@ -1514,7 +1514,7 @@
     <letRingFrameFgColor r="0" g="0" b="0" a="255"/>
     <letRingFrameBgColor r="255" g="255" b="255" a="0"/>
     <letRingEndHookType>3</letRingEndHookType>
-    <palmMuteFontFace>MuseJazz Text</palmMuteFontFace>
+    <palmMuteFontFace>Finale Broadway Text</palmMuteFontFace>
     <palmMuteFontSize>10</palmMuteFontSize>
     <palmMuteLineSpacing>1</palmMuteLineSpacing>
     <palmMuteFontSpatiumDependent>1</palmMuteFontSpatiumDependent>
