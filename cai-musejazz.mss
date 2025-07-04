@@ -20,7 +20,7 @@
     <minSystemDistance>8.5</minSystemDistance>
     <maxSystemDistance>15</maxSystemDistance>
     <alignSystemToMargin>1</alignSystemToMargin>
-    <enableVerticalSpread>0</enableVerticalSpread>
+    <enableVerticalSpread>1</enableVerticalSpread>
     <spreadSystem>2.5</spreadSystem>
     <spreadSquareBracket>1.2</spreadSquareBracket>
     <spreadCurlyBracket>1.1</spreadCurlyBracket>
@@ -370,8 +370,8 @@
     <showMeasureNumber>1</showMeasureNumber>
     <showMeasureNumberOne>1</showMeasureNumberOne>
     <measureNumberInterval>4</measureNumberInterval>
-    <measureNumberSystem>0</measureNumberSystem>
-    <measureNumberAllStaves>1</measureNumberAllStaves>
+    <measureNumberSystem>1</measureNumberSystem>
+    <measureNumberAllStaves>0</measureNumberAllStaves>
     <smallNoteMag>0.7</smallNoteMag>
     <scaleRythmicSpacingForSmallNotes>0</scaleRythmicSpacingForSmallNotes>
     <graceNoteMag>0.7</graceNoteMag>
